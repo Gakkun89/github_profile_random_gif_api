@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple little API project to return a random GIF to be used on GitHub profile pages
 
-Things you may want to cover:
+## MVP:
+- Returns a random GIF (via Giphy API) which then can be used as an image link on GH profile page Readme
 
-* Ruby version
+## Future features:
+- Specify a keyword for GIFs
+- Specify some specialised logic for GIFs (e.g. changes with currrent weekday etc)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
